@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "917994873071"; 
-owner = "917994873071"; 
-fakeyoi = "AJU"; 
+targetpc = "+1 (254) 320-2355"; 
+owner = "+1 (254) 320-2355"; 
+fakeyoi = "AJ"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -941,7 +941,7 @@ xeon.sendMessage(from, teks, text,{contextInfo :{text: 'hi',
 isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
-                "title": `Whatsapp-BOT\n𝙰𝙹𝚄 𝚂𝙴𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
+                "title": `Whatsapp-BOT\n𝙰𝙹 𝚂𝙴𝚁😎. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
                 "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
@@ -956,12 +956,12 @@ isForwarded: false,
 sendEphemeral: false,
 "externalAdReply": {
                 "title": `Whatsapp`,
-                "body": `wa.me/917994873071`,
+                "body": `wa.me/1(254)3202355`,
                 "mediaType": "10",
-                "mediaUrl": `wa.me/917994873071`,
+                "mediaUrl": `wa.me/1(254)3202355`,
                 "thumbnailUrl": "https://i.ibb.co/kQ98t1k/AJU.jpg",
                 "thumbnail": iye,
-                "sourceUrl": `wa.me/917736622139`,
+                "sourceUrl": `wa.me/1(254)3202355`,
 },mentionedJid:[sender]}, quoted : mek})
 };
 const fakeyt = (teks) => {
@@ -1657,7 +1657,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │      
 │
 │  ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* :  ᴀᴊᴜ sɪʀ
-│  ▢ *ᴏᴡɴᴇʀ* :  ᴀᴊᴜ sɪʀ
+│  ▢ *ᴏᴡɴᴇʀ* :  ᴀᴊ sɪʀ
 │  ▢ *ᴠᴇʀsɪᴏɴ* : 1.0
 │  ▢ *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 │  ▢ *ᴘʀᴇғɪx* : [# .]
@@ -1692,16 +1692,16 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 
 break
 case 'credit':
-   dtod = '917994873071'
-   dtod1 = '917994873071'
-   dtod2 = '917994873071'
+   dtod = '+1(254)3202355'
+   dtod1 = '+1(254)3202355'
+   dtod2 = '+1(254)3202355'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
 ╭───➤ 𝐀𝐃𝐌𝐈𝐍
 │✨ wa.me/${dtod.split('@')[0]}
 ╰───────────────
- © ᴄᴏᴅᴇᴅ ʙʏ ᴀᴊᴜ sɪʀ
+ © ᴄᴏᴅᴇᴅ ʙʏ ᴀᴊ sɪʀ
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
@@ -1870,7 +1870,7 @@ menu = `
 
 4. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
 `
-sendButMessage(from, menu, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, `𝙰𝙹 𝚂𝙴𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
